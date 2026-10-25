@@ -10,8 +10,6 @@ An AI-powered scenario simulation prototype that explores how changes in traffic
 
 Here is a preview of the AI Future Simulator dashboard.
 
-![AI Future Simulator Dashboard](images/dashboard.png)
-
 ## Project Overview
 
 An experimental machine learning prototype that explores illustrative scenarios involving traffic, energy consumption, and green cover.
